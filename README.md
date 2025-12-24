@@ -32,12 +32,13 @@ All token transfers and balances were verified on the Sepolia blockchain explore
 ## Screenshots List – Tokenomics Airdrop Activity
 
 <img width="1252" height="607" alt="image" src="https://github.com/user-attachments/assets/b5c3d51d-cd76-4609-867c-0cfc17bd834b" />
+
 <img width="1238" height="645" alt="image" src="https://github.com/user-attachments/assets/389583db-01ce-44f1-9dae-f83af91dfba0" />
+
 <img width="1022" height="575" alt="image" src="https://github.com/user-attachments/assets/142f5ca9-b3eb-4f94-8ebf-a6c3296932b5" />
-<img width="1613" height="830" alt="image" src="https://github.com/user-attachments/assets/b3add004-f265-4a93-b0bd-844ebf0feb05" />
-<img width="1618" height="796" alt="image" src="https://github.com/user-attachments/assets/5e519d5e-2c61-443f-a31b-64cc000bbcb4" />
+
 <img width="1185" height="606" alt="image" src="https://github.com/user-attachments/assets/af87450d-4e3c-49e1-88f1-af74c090fa1c" />
-<img width="1691" height="805" alt="image" src="https://github.com/user-attachments/assets/dd1b0ba3-6bdb-4a82-ba08-61cfc86cbc4e" />
+
 
 
 ## Learning Outcomes
